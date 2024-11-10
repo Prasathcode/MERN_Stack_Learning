@@ -53,11 +53,11 @@ To use the project, simply open the `Day_1.html` file in any modern web browser.
 ### Running the HTML File
 1. Clone the repository (if applicable):
     ```bash
-    git clone https://github.com/yourusername/mern-training.git
+    git clone https://github.com/Prasathcode/MERN_Stack_Learning.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd mern-training
+    cd MERN_Stack_Learning
     ```
 3. Open the `Day_1.html` file directly in your browser:
     ```bash
